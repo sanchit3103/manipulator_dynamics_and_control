@@ -9,3 +9,5 @@ This project focuses on modelling the dynamics of a 3 DOF robotic manipulator us
 <p align="center">
   
   <img src = "(https://github.com/sanchit3103/manipulator_dynamics_and_control/assets/4907348/2f5cd54f-a33c-411c-8785-49e9ef742e79)" height="300"/>
+ 
+</p>
