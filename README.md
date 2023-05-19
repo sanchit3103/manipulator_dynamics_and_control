@@ -16,3 +16,7 @@ The GIF below shows the implementation of a PID based stiffness controller on th
   <img src = "https://github.com/sanchit3103/manipulator_dynamics_and_control/assets/4907348/2f5cd54f-a33c-411c-8785-49e9ef742e79" height="400"/>
 
 </p>
+
+## Details to run the code
+
+* <b> main.ipynb: </b> Notebook which includes the formulation of dynamics and implementation of PID controller.
