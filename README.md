@@ -6,6 +6,11 @@ This project focuses on modelling the dynamics of a 3 DOF robotic manipulator us
 
 ## Project implementation in form of GIF file
 
+<p align="justify">
+The GIF below shows the implementation of a PID based stiffness controller on the robot while holding a payload, to reach four corners of a box.
+  
+</p>
+
 <p align="center">
   
   <img src = "https://github.com/sanchit3103/manipulator_dynamics_and_control/assets/4907348/2f5cd54f-a33c-411c-8785-49e9ef742e79" height="400"/>
